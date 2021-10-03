@@ -1,1 +1,1 @@
-window.location.href = 'https://discord.com/oauth2/authorize?client_id=893717539794862120&scope=bot';
+window.location.href = 'https://discord.com/oauth2/authorize?client_id=893717539794862120&permissions=8&scope=bot';
